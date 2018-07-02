@@ -1,6 +1,7 @@
 The first line of text.
 New line.
+Line number 3.
 sfnajkhquiweryiq
 sjhkjfd
 lalalala
-
+Test addition by EBD
